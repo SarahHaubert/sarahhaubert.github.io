@@ -1,0 +1,32 @@
+.container {
+    width: 100%;
+}
+.grid-item {
+    width: 200px; 
+    
+}
+
+.grid-item img {
+    
+        width: 100%;
+    
+}
+
+.collage:hover {
+    position:relative;
+    top:-25px;
+    left:-35px;
+    width:300px;
+    height:auto;
+    display:block;
+    z-index:999;
+}
+
+.projects {
+    margin-top: 100px
+}
+
+.title {
+    margin-bottom: 30px; 
+    padding-left: 10px;
+}
